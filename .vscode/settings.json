@@ -1,0 +1,6 @@
+{
+  "chat.useNestedAgentsMdFiles": true,
+  "files.exclude": {
+    "**/cache": true
+  }
+}

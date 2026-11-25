@@ -1,0 +1,8 @@
+data/
+cache/
+*.db
+*.csv
+*.parquet
+models/
+.venv/
+__pycache__/
