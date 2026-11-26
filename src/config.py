@@ -13,7 +13,7 @@ MODELS_DIR = BASE_DIR / "models"
 MODEL_PATH = MODELS_DIR / "xgb_f1_model.json"
 
 # Parametri Formula 1 (iniziamo con 2 stagioni per scaricare velocemente)
-SEASONS = [2024, 2025]
+SEASONS = [2021, 2022, 2023, 2024, 2025, 2026]
 
 # Parametri Machine Learning
 RANDOM_STATE = 42
